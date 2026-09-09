@@ -14,7 +14,7 @@ spamemailclassifier	Classifies spam vs. legitimate emails	Python
 Product_recommendation-	Recommends products based on user data	JavaScript
 Nikhil_Portfolio	My personal portfolio site	JavaScript
 💻 Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikpomp&show_icons=true&theme=radical" alt="nikpomp's GitHub stats" height="165"/>  </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikpomp&show_icons=true&theme=radical" alt="nikpomp's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikpomp&theme=radical" alt="nikpomp's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikpomp&layout=compact&theme=radical" alt="Top languages"/> </p>
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
